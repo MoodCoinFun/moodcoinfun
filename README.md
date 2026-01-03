@@ -16,7 +16,7 @@ MoodCoinFun (MCF) is a meme and entertainment-focused cryptocurrency that aims t
 - **Initial DEX:** Raydium  
 
 - **Token Address:** `FFN1KN9rKw7vBJStJUV4zTsoJbDC2j27fMjz7YjJbray`
-- **Raydium Pool/Pair Address (if applicable):** `TBA`
+- **Raydium Pool/Pair Address (if applicable):** `FxogrBw1tmkGtgSkfjZDoLHhUBKrThkAKL19PKwFwM7T`
 
 ---
 
