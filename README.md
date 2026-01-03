@@ -23,17 +23,34 @@ MoodCoinFun (MCF) is a meme and entertainment-focused cryptocurrency that aims t
 ## Tokenomics
 
 - **Total Supply:** 1,000,000,000 MCF  
-- **Allocation:**
-  - 10% – Liquidity  
-  - 3% – Team  
-  - 5% – Marketing  
-  - 82% – Community & ecosystem
 
-- **Transaction Taxes:**
-  - Buy tax: 0%  
-  - Sell tax: 0%  
+### Developer & Ecosystem Fund – 20% (200,000,000 MCF)
 
-MoodCoinFun aims to keep transfers simple and transparent, with no additional on-chain tax logic embedded in the token.
+- **10% – Locked Liquidity (100,000,000 MCF)**  
+  Locked liquidity to support stable trading and long-term liquidity provision.
+
+- **5% – Listings (50,000,000 MCF)**  
+  Reserved for current and future exchange listings and related liquidity needs.
+
+- **3.75% – Marketing (37,500,000 MCF)**  
+  Used for marketing initiatives, campaigns, and collaborations to grow the community.
+
+- **1.25% – Development Wallet (12,500,000 MCF)**  
+  Allocated to ongoing development, community tools, and ecosystem enhancements.
+
+The Developer & Ecosystem Fund is intended to support liquidity, listings, marketing, strategic partnerships, and sustainable long-term growth of the project.
+
+### Community & Public Allocation – 80% (800,000,000 MCF)
+
+Allocated to the community and public supply for trading, incentives, campaigns, and broader ecosystem usage.
+
+### Transaction Taxes
+
+- **Buy tax:** 0%  
+- **Sell tax:** 0%  
+
+There are no on-chain tax or reflection mechanics; only standard Solana network and DEX fees apply.
+
 
 ---
 
