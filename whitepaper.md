@@ -56,28 +56,37 @@ MCF is a standard SPL token on Solana, benefiting from Solana’s high throughpu
 
 ## 4. Tokenomics
 
-### 4.1 Allocation
+### 4.1 Supply
 
-Total supply: **1,000,000,000 MCF**
+- **Total Supply:** 1,000,000,000 MCF  
+- **Blockchain:** Solana (SPL)  
 
-- **10% – Liquidity**  
-  Allocated to liquidity pools (e.g., on Raydium) to help facilitate trading and price discovery.
+### 4.2 Developer & Ecosystem Fund – 20% (200,000,000 MCF)
 
-- **3% – Team**  
-  Reserved for the core contributors and maintainers of the project. This allocation is intended to support ongoing development, coordination, and operations.
+20% of the total supply is allocated to the Developer & Ecosystem Fund. This allocation is designed to support locked liquidity, listings, marketing, development, strategic partnerships, and long-term ecosystem growth.
 
-- **5% – Marketing**  
-  Used for promotions, collaborations, mood-based campaigns, and other activities that support community growth and visibility.
+- **10% – Locked Liquidity (100,000,000 MCF)**  
+  Dedicated to liquidity provision and locked to support long-term market stability.
 
-- **82% – Community & Ecosystem**  
-  Designated for community initiatives, events, incentives, potential airdrops, partnerships, and long‑term ecosystem development.
+- **5% – Listings (50,000,000 MCF)**  
+  Reserved for current and future exchange listings, liquidity arrangements, and related activities.
 
-### 4.2 Transaction Taxes
+- **3.75% – Marketing (37,500,000 MCF)**  
+  Used for marketing campaigns, community growth initiatives, and promotional collaborations.
+
+- **1.25% – Development Wallet (12,500,000 MCF)**  
+  Allocated to ongoing development, tooling, integrations, and ecosystem expansion.
+
+### 4.3 Community & Public Allocation – 80% (800,000,000 MCF)
+
+The remaining 80% of the supply is intended for the community and public circulation. This allocation supports trading on DEXs, community incentives, events, and other ecosystem initiatives over time.
+
+### 4.4 Transaction Taxes
 
 - **Buy Tax:** 0%  
 - **Sell Tax:** 0%  
 
-There are no on‑chain transaction taxes embedded in the MCF token contract. Transfers, buys, and sells are intended to be straightforward and transparent. Any fees associated with trading MCF are limited to standard Solana network fees and DEX/platform fees.
+The MCF token contract does not implement on-chain transaction taxes, reflections, or rebasing. Users only pay standard Solana network fees and any applicable exchange/platform fees.
 
 ---
 
